@@ -7,8 +7,4 @@ console.log("merging two branch");
 
 console.log("master")
 
-<<<<<<< HEAD
-console.log("masterfjhgggggggggggggggg")
-=======
 console.log("create-practice branch")
->>>>>>> create-practice
