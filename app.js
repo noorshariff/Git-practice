@@ -6,3 +6,5 @@ console.log(data, "===============", data2)
 console.log("merging two branch");
 
 console.log("master")
+
+console.log("create-practice branch")
